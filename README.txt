@@ -1,4 +1,4 @@
-How to test it [for developers]
+It is very easy to test it [for developers]
 ===============================
 1.- Run:
   ./test.py /path/to/CTK
